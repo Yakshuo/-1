@@ -1,0 +1,10 @@
+C:\Users\A.H\source\repos\Calculator MK1\bin\Debug\Calculator MK1.exe.config
+C:\Users\A.H\source\repos\Calculator MK1\bin\Debug\Calculator MK1.exe
+C:\Users\A.H\source\repos\Calculator MK1\bin\Debug\Calculator MK1.pdb
+C:\Users\A.H\source\repos\Calculator MK1\obj\Debug\Calculator MK1.csproj.AssemblyReference.cache
+C:\Users\A.H\source\repos\Calculator MK1\obj\Debug\Calculator_MK1.Properties.Resources.resources
+C:\Users\A.H\source\repos\Calculator MK1\obj\Debug\Calculator MK1.csproj.GenerateResource.cache
+C:\Users\A.H\source\repos\Calculator MK1\obj\Debug\Calculator MK1.csproj.CoreCompileInputs.cache
+C:\Users\A.H\source\repos\Calculator MK1\obj\Debug\Calculator MK1.exe
+C:\Users\A.H\source\repos\Calculator MK1\obj\Debug\Calculator MK1.pdb
+C:\Users\A.H\source\repos\Calculator MK1\obj\Debug\Calculator_MK1.CalculatorMk1.resources
