@@ -1,0 +1,17 @@
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\Prelims.Form1.resources
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\Prelims.Properties.Resources.resources
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\Prelims.csproj.GenerateResource.cache
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\Prelims.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\Prelims.AssemblyInfoInputs.cache
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\Prelims.AssemblyInfo.cs
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\Prelims.csproj.CoreCompileInputs.cache
+C:\Users\A.H\source\repos\Prelims\bin\Debug\net8.0-windows\Prelims.exe
+C:\Users\A.H\source\repos\Prelims\bin\Debug\net8.0-windows\Prelims.deps.json
+C:\Users\A.H\source\repos\Prelims\bin\Debug\net8.0-windows\Prelims.runtimeconfig.json
+C:\Users\A.H\source\repos\Prelims\bin\Debug\net8.0-windows\Prelims.dll
+C:\Users\A.H\source\repos\Prelims\bin\Debug\net8.0-windows\Prelims.pdb
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\Prelims.dll
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\refint\Prelims.dll
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\Prelims.pdb
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\Prelims.genruntimeconfig.cache
+C:\Users\A.H\source\repos\Prelims\obj\Debug\net8.0-windows\ref\Prelims.dll
